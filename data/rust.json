@@ -411,6 +411,18 @@
             "link": "https://www.youtube.com/watch?v=syhFE0JbZ5M",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Deceit",
+            "link": "https://youtu.be/HOtLPlxLj_o",
+            "percent": 65,
+            "hz": 240
+        },
+        {
+            "user": "SarcasticMuch",
+            "link": "https://youtu.be/GGYUnGBYOCA",
+            "percent": 76,
+            "hz": 120
         }
     ]
 }

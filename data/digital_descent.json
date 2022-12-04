@@ -62,6 +62,12 @@
             "link": "https://www.youtube.com/watch?v=ETD9vd2qxgI&t=1s",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "luis.",
+            "link": "https://www.youtube.com/watch?v=JccCpM7msfg",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

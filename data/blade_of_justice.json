@@ -260,6 +260,12 @@
             "link": "https://youtu.be/XPI6UMKRpgU",
             "percent": 70,
             "hz": 360
+        },
+        {
+            "user": "HistoricaLL",
+            "link": "https://www.youtube.com/watch?v=12W1PGmlzCM",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

@@ -641,12 +641,6 @@
             "hz": 360
         },
         {
-            "user": "sketch",
-            "link": "https://youtu.be/fuNjNBq0YA0",
-            "percent": 100,
-            "hz": 360
-        },
-        {
             "user": "Snakez363",
             "link": "https://www.twitch.tv/videos/1251571832",
             "percent": 100,
@@ -1277,6 +1271,12 @@
             "link": "https://youtu.be/1V7XWm4t92A",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "tunbag_",
+            "link": "https://youtu.be/2gY1lb4fjUY",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

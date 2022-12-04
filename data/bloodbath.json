@@ -495,6 +495,24 @@
             "link": "https://www.youtube.com/watch?v=yKGjeJTQ6iM",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "ItzHealer",
+            "link": "https://youtu.be/PdQnTcsPkzk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "vJoaco",
+            "link": "https://youtu.be/KxLybbwQcOE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tgm",
+            "link": "https://youtu.be/_pDVRsmv2QI",
+            "percent": 100,
+            "hz": 225
         }
     ]
 }
