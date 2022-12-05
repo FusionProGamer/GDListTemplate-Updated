@@ -95,7 +95,7 @@
         },
         {
             "user": "biskit",
-            "link": "https://youtu.be/Wg3dcDrzSKI",
+            "link": "https://youtu.be/_2HXs9sbnEc",
             "percent": 100,
             "hz": 360
         },
@@ -122,6 +122,12 @@
             "link": "https://youtu.be/6c26lLKv8mA",
             "percent": 100,
             "hz": 180
+        },
+        {
+            "user": "Skhinner13",
+            "link": "https://youtu.be/o6Xr_V2YI48",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

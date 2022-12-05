@@ -8,5 +8,11 @@
     "showcase": "https://youtu.be/_R6mZHylfsI",
     "percentToQualify": 51,
     "records": [
+        {
+            "user": "GD CrimsonKing22",
+            "link": "https://www.youtube.com/watch?v=Dh93yc5t_0k",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

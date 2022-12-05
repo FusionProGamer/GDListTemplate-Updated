@@ -566,6 +566,19 @@
             "link": "https://youtu.be/snuWnedxy04",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "asmallsock",
+            "link": "https://youtu.be/mcTe4HWw8ao",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Fronly",
+            "link": "https://youtu.be/IAWPbmkUj1I",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }

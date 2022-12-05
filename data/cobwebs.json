@@ -332,6 +332,30 @@
             "link": "https://www.youtube.com/watch?v=lR0PjxqFa6I",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "ShadowNevio",
+            "link": "https://youtu.be/6TJ9_HHgBPw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Wild [GD]",
+            "link": "https://www.youtube.com/watch?v=MgXq3d8jiKM",
+            "percent": 100,
+            "hz": 330
+        },
+        {
+            "user": "Willow",
+            "link": "https://youtu.be/hUXKR5DTSys",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Normus",
+            "link": "https://youtu.be/2JGgU8ht-nc",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

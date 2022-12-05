@@ -1168,6 +1168,19 @@
             "link": "https://youtu.be/VKRiypeHs0o",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Ka13b3ast",
+            "link": "https://youtu.be/YQkitiCxo-Q",
+            "percent": 63,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "Willow",
+            "link": "https://youtu.be/hUXKR5DTSys",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

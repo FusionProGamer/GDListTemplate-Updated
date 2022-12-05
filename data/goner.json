@@ -133,6 +133,12 @@
             "link": "https://www.youtube.com/watch?v=Kb_oKBHzQcw",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Lutz",
+            "link": "https://youtu.be/PCdcatjkmMU",
+            "percent": 100,
+            "hz": 180
         }
     ]
 }

@@ -284,6 +284,12 @@
             "link": "https://www.youtube.com/watch?v=80MEGx6MyG0",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "kri1s5",
+            "link": "https://youtu.be/Z2hGnok-cWE",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

@@ -596,6 +596,24 @@
             "link": "https://www.youtube.com/watch?v=4YBKgNPnLC4",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "JordanYT",
+            "link": "https://www.youtube.com/watch?v=4YBKgNPnLC4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CyberGeek",
+            "link": "https://www.youtube.com/watch?v=tVsJ8_Qjunw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Wild [GD]",
+            "link": "https://www.youtube.com/watch?v=rb1XP81U4NA",
+            "percent": 100,
+            "hz": 330
         }
     ]
 }

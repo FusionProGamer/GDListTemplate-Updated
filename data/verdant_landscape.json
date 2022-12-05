@@ -240,6 +240,12 @@
             "link": "https://www.youtube.com/watch?v=g-w73l2b3eQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "ItzMira",
+            "link": "https://youtu.be/VHVnI2MCHtc",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

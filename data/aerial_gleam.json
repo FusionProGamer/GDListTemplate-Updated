@@ -151,6 +151,12 @@
             "link": "https://www.youtube.com/watch?v=-uqdZmBgL7E&t=18s",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "DeleteUser",
+            "link": "https://youtu.be/TZpIWgUEFGA",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }    

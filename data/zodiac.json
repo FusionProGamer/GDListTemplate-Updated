@@ -137,8 +137,8 @@
         },
         {
             "user": "GD Fayo",
-            "link": "https://www.youtube.com/watch?v=zEvFSH9uZt0&ab_channel=GDFayo",
-            "percent": 70,
+            "link": "https://www.youtube.com/watch?v=Hxk340jAuz0",
+            "percent": 100,
             "hz": 360
         },
         {
@@ -158,6 +158,12 @@
             "link": "https://www.youtube.com/watch?v=eBygMWrvsoM&ab_channel=lonifer",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Riptide",
+            "link": "https://youtu.be/wNH8tsiLbRw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
