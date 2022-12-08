@@ -85,6 +85,12 @@
             "link": "https://www.youtube.com/watch?v=UpH3wZ1WR60",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "Normus",
+            "link": "https://youtu.be/YHfG61yEn8c",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

@@ -579,6 +579,12 @@
             "link": "https://www.youtube.com/watch?v=sMLsPqGIQpA",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "UnaiMJ",
+            "link": "https://www.twitch.tv/unaimj/clip/SuaveZealousBeeAMPEnergyCherry-qWdcwnfwlC9zYxWm",
+            "percent": 65,
+            "hz": 360
         }
     ]
 }
