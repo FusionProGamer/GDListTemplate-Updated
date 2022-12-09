@@ -107,6 +107,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Sismosis",
+            "link": "https://youtu.be/tkZIlWEJ_dU",
+            "percent": 79,
+            "hz": 144
         }
     ]
 }
