@@ -9,16 +9,22 @@
     "percentToQualify": 57,
     "records": [
         {
-        "user": "BrightBird",
-        "link": "https://youtu.be/NnKi_EKIpJA",
-        "percent": 100,
-        "hz": 288
+            "user": "BrightBird",
+            "link": "https://youtu.be/NnKi_EKIpJA",
+            "percent": 100,
+            "hz": 288
         },
         {
             "user": "IKuster",
             "link": "https://youtu.be/3v5rKElWiVI",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "sydno",
+            "link": "https://www.youtube.com/watch?v=qxaUE5UdYCE",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
