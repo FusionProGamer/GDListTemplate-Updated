@@ -156,5 +156,6 @@
     "circuit_breaker",
     "hush",
     "ithacropolis",
-    "cyclone"
+    "cyclone",
+    "delta_interface"
 ]
