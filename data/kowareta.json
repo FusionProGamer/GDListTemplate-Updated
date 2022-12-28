@@ -1175,6 +1175,13 @@
             "link": "https://youtu.be/zkNHd1aA_SQ",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "CRIMSI GmD",
+            "link": "https://www.youtube.com/watch?v=oLrtmFC5iYQ",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
