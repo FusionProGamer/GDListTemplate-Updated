@@ -13,6 +13,13 @@
             "link": "https://www.youtube.com/watch?v=X_zQVwmZ31Y",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "dep96"
+            "link": "https://youtu.be/Nvr4IKGxL4s"
+            "percent": 100,
+            "hz": 240
         }
+        
     ]
 }
