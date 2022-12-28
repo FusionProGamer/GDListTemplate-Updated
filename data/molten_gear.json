@@ -146,6 +146,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "VictorUzumaki06",
+            "link": "https://www.youtube.com/watch?v=xsicxykcaoM&t=29s",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
