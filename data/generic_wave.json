@@ -139,6 +139,12 @@
             "link": "https://www.youtube.com/watch?v=FkFrgmdu_Qo",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Hipo",
+            "link": "https://youtu.be/mQPMCiElFPA"
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
