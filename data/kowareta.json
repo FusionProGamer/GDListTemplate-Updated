@@ -1196,6 +1196,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "EriannW",
+            "link": "https://youtu.be/T8QMRQhk1hQ",
+            "percent": 59,
+            "hz": 300
         }
     ]
 }
