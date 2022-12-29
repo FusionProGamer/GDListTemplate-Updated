@@ -319,6 +319,12 @@
             "percent": 100,
             "hz": 60,
             "mobile":true
+        },
+        {
+            "user": "wade06",
+            "link": "https://youtu.be/r_HXvYE4fnk",
+            "percent": 100,
+            "hz": 360,
         }
     ]
 }
