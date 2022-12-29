@@ -1289,7 +1289,12 @@
             "link": "https://www.youtube.com/watch?v=SlKRGLvlreY",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "UnaiMJ",
+            "link": "https://www.youtube.com/watch?v=lj76V0BVa2Q&t"
+            "percent": 100,
+            "hz": 240
         }
-
     ]
 }
