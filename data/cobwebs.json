@@ -368,6 +368,13 @@
             "link": "https://www.youtube.com/watch?v=b9gZdBJwn1I",
             "percent": 100,
             "hz": 330
+        },
+        {
+            "user": "zAccurate",
+            "link": "https://youtu.be/wGE2HucbWm8",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
