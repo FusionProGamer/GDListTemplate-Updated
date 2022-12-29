@@ -695,8 +695,8 @@
             "hz": 288
         },
         {
-            "user", "deathbylag",
-            "link", "https://www.youtube.com/watch?v=Zv3hYX6XWlE",
+            "user": "deathbylag",
+            "link": "https://www.youtube.com/watch?v=Zv3hYX6XWlE",
             "percent": 100,
             "hz": 288
         }
