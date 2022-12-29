@@ -392,6 +392,12 @@
             "link": "https://www.youtube.com/watch?v=21qbgPHWBng",
             "percent": 72,
             "hz": 360
+        },
+        {
+            "user": "ElijahJordan2",
+            "link": "https://www.youtube.com/watch?v=jrOe4Gy4dZQ&ab_channel=GDlevels",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
