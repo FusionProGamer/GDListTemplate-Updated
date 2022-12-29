@@ -1084,13 +1084,6 @@
             "hz": 240
         },
         {
-            "user": "CRIMSI GmD",
-            "link": "https://youtu.be/0WCDdEuak6A",
-            "percent": 63,
-            "hz": 60,
-            "mobile": true
-        },
-        {
             "user": "SemiRed",
             "link": "https://youtu.be/vCM4qbharV4",
             "percent": 100,
@@ -1177,13 +1170,6 @@
             "hz": 240
         },
         {
-            "user": "CRIMSI GmD",
-            "link": "https://www.youtube.com/watch?v=oLrtmFC5iYQ",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
             "user": "Dwade",
             "link": "https://youtu.be/RfOJEWjJ9pw",
             "percent": 65,
@@ -1191,8 +1177,8 @@
             "mobile": true
         },
         {
-            "user": "CRiMSi",
-            "link": "https://youtu.be/oLrtmFC5iYQ",
+            "user": "CRiMSi GmD",
+            "link": "https://www.youtube.com/watch?v=oLrtmFC5iYQ",
             "percent": 100,
             "hz": 60,
             "mobile": true
