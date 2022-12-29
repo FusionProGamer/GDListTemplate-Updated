@@ -608,6 +608,12 @@
             "link": "https://www.youtube.com/watch?v=rb1XP81U4NA",
             "percent": 100,
             "hz": 330
+        },
+        {
+            "user": "EggCorn",
+            "link": "https://youtu.be/i9LX1v5bnS0",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
