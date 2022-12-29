@@ -27,6 +27,12 @@
             "percent": 80,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://youtu.be/4ox6x4lP76M",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
