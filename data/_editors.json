@@ -1,23 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "Bluestone",
-        "link": "https://www.youtube.com/channel/UCfCcFAvTLH-vqmFe93z9D3w"
+        "name": "Microwaveee",
+        "link": "https://www.youtube.com/channel/UC4BZvLEre3SrihXXL-eItWg"
     },
     {
         "role": "owner",
         "name": "Davine_007",
         "link": "https://www.youtube.com/channel/UCdFZfQWXHkJkofMyorv0ccw"
-    },
-    {
-        "role": "owner",
-        "name": "JustCrust",
-        "link": "https://www.youtube.com/channel/UC_CKBjO9nk3yc46EsbO9bmw/videos"
-    },
-    {
-        "role": "owner",
-        "name": "Microwaveee",
-        "link": "https://www.youtube.com/channel/UC4BZvLEre3SrihXXL-eItWg"
     },
     {
         "role": "admin",
@@ -46,8 +36,33 @@
     },
     {
         "role": "trial",
-        "name": "snickles",
-        "link": "https://www.youtube.com/channel/UCkwR22BGmJU1CVPPBo7ES0A"
+        "name": "Sorry m8",
+        "link": "https://www.youtube.com/channel/UC7F3s5NZJTxALDAWMNvJJbA"
+    },
+    {
+        "role": "trial",
+        "name": "sarcasticmuch",
+        "link": "https://www.youtube.com/channel/UCH4iSascx58Bfue2cfpWKJQ"
+    },
+    {
+        "role": "trial",
+        "name": "RealBigFlopa",
+        "link": "https://www.youtube.com/channel/UCnbbHfbjQpVib5NqYTNIe-A"
+    },
+    {
+        "role": "trial",
+        "name": "lucap123",
+        "link": "https://www.youtube.com/@lucap123gd8"
+    },
+    {
+        "role": "trial",
+        "name": "Louuu (qzkk)",
+        "link": "https://www.youtube.com/channel/UCqwvL2i0iZbv54nM-1Eqb3Q"
+    },
+    {
+        "role": "trial",
+        "name": "srus",
+        "link": "https://www.youtube.com/channel/UCZWCsnRMKs7VSyO094YeyJw"
     },
     {
         "role": "dev",
