@@ -152,6 +152,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "FakeRodri",
+            "link": "https://www.youtube.com/watch?v=_slJuLLd_Zg&t=3s",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
