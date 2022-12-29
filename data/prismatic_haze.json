@@ -393,6 +393,12 @@
             "link": "https://www.youtube.com/watch?v=Q-EjXitH2FU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Kunai",
+            "link": "https://www.youtube.com/watch?v=EIM9G3D-fYc",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
