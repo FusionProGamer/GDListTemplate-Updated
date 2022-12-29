@@ -1303,6 +1303,12 @@
             "link": "https://www.youtube.com/watch?v=mbXqj6MxEiw",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Echotic",
+            "link": "https://www.youtube.com/watch?v=iRUUMPMecqc",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
