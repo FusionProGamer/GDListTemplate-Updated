@@ -85,6 +85,13 @@
             "link": "https://youtu.be/KmN82dzjaQs",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "skydiewallker",
+            "link": "https://youtu.be/0ZiSgHV7y_0",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
