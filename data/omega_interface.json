@@ -492,6 +492,12 @@
             "link": "https://www.youtube.com/watch?v=qCaMa2hu-LQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "DaddyCat",
+            "link": "https://youtu.be/3LRmPdm0r5I",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
