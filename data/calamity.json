@@ -265,6 +265,12 @@
             "link": "https://www.youtube.com/watch?v=5RLv3oYLmes",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Tunax",
+            "link": "https://youtu.be/hZNrJyce-10",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
