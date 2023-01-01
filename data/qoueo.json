@@ -40,8 +40,8 @@
         },
         {
             "user": "vKaii",
-            "link": "https://youtu.be/oKBVcAvJpK0",
-            "percent": 91,
+            "link": "https://www.youtube.com/watch?v=EsAHVJKtj0w",
+            "percent": 100,
             "hz": 288
         },
         {
@@ -61,12 +61,7 @@
             "link": "https://www.youtube.com/watch?v=HmOAFiLUt_Q",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "vKaii",
-            "link": "https://www.youtube.com/watch?v=EsAHVJKtj0w",
-            "percent": 100,
-            "hz": 288
         }
+         
     ]
 }
