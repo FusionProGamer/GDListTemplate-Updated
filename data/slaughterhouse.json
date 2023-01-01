@@ -99,16 +99,16 @@
             "hz": 240
         },
         {
-            "user": "homegrowntag",
-            "link": "https://www.youtube.com/watch?v=b599JgovSTI",
-            "percent": 100,
-            "hz": 360
-        },
-        {
             "user": "Tunax",
             "link": "https://youtu.be/tiUxoE7zHG8",
             "percent": 100,
             "hz": 360 
+        },
+        {
+            "user": "homegrowntag",
+            "link": "https://www.youtube.com/watch?v=b599JgovSTI",
+            "percent": 100,
+            "hz": 360
         },
         {
             "user": "zepynr",
@@ -116,7 +116,6 @@
             "percent": 100,
             "hz": 360
         }
-
     ]
 }
 
