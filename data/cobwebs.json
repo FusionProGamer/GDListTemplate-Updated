@@ -381,14 +381,6 @@
             "link": "https://www.youtube.com/watch?v=huYIbWCESIo&ab_channel=Kellllllen",
             "percent": 100,
             "hz": 300
-        },
-        {
-            "user": "skydiewallker",
-            "link": "https://youtu.be/FLYc1HMBB5U",
-            "percent": 100,
-            "hz": 120,
-            "mobile": true
         }
-    
     ]
 }
