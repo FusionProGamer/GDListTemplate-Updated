@@ -320,6 +320,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "homegrowntag",
+            "link": "https://youtu.be/M0jBf2m4Uik",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
