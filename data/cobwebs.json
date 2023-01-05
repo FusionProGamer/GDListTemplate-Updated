@@ -381,6 +381,12 @@
             "link": "https://www.youtube.com/watch?v=huYIbWCESIo&ab_channel=Kellllllen",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "Gadolithius",
+            "link": "https://youtu.be/gAUtvAkuQLo",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
