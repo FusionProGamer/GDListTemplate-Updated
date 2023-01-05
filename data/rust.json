@@ -442,6 +442,12 @@
             "link": "https://www.youtube.com/watch?v=HqREucAPcaI",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "lucap123",
+            "link": "https://www.youtube.com/watch?v=sNaPDZGN8SA",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
