@@ -454,6 +454,12 @@
             "link": "https://youtu.be/aN8W_g00jTk",
             "percent": 100,
             "hz":360
+        },
+        {
+            "user": "francom17",
+            "link": "https://www.youtube.com/watch?v=hPkL9LPSiqo",
+            "percent": 70,
+            "hz" 360
         }
     ]
 }
