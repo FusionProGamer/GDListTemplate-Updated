@@ -35,6 +35,12 @@
             "link": "https://youtu.be/r6m5ofmLZtw",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "woi",
+            "link": "https://www.youtube.com/watch?v=vj5IVHjkxw0",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
