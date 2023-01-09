@@ -8,6 +8,11 @@
     "showcase": "https://www.youtube.com/watch?v=qGhKLGaEPd4",
     "percentToQualify": 53,
     "records": [
-        
+        {
+            "user": "woi",
+            "link": "https://www.youtube.com/watch?v=LL16jEX8FCA",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
