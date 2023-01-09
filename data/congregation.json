@@ -331,6 +331,13 @@
              "link": "https://www.youtube.com/watch?v=AkxtGLC25uY",
              "percent": 100,
              "hz": 360
+        },
+        {
+            "user": "TheVicenteX",
+            "link": "https://youtu.be/gz3cab8lRCs",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
