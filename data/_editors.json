@@ -35,34 +35,34 @@
         "link": "https://www.youtube.com/channel/UCW0SgOGd9y6yHk5buJ81JfQ"
     },
     {
-        "role": "trial",
+        "role": "helper",
         "name": "Sorry m8",
         "link": "https://www.youtube.com/channel/UC7F3s5NZJTxALDAWMNvJJbA"
     },
     {
-        "role": "trial",
+        "role": "helper",
         "name": "sarcasticmuch",
         "link": "https://www.youtube.com/channel/UCH4iSascx58Bfue2cfpWKJQ"
     },
     {
-        "role": "trial",
+        "role": "helper",
         "name": "RealBigFlopa",
         "link": "https://www.youtube.com/channel/UCnbbHfbjQpVib5NqYTNIe-A"
     },
     {
-        "role": "trial",
+        "role": "helper",
         "name": "lucap123",
         "link": "https://www.youtube.com/@lucap123gd8"
+    },
+    {
+        "role": "helper",
+        "name": "srus",
+        "link": "https://www.youtube.com/channel/UCZWCsnRMKs7VSyO094YeyJw"
     },
     {
         "role": "trial",
         "name": "qzkk",
         "link": "https://www.youtube.com/channel/UCqwvL2i0iZbv54nM-1Eqb3Q"
-    },
-    {
-        "role": "trial",
-        "name": "srus",
-        "link": "https://www.youtube.com/channel/UCZWCsnRMKs7VSyO094YeyJw"
     },
     {
         "role": "dev",
