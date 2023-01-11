@@ -25,5 +25,12 @@
     "verification": "https://youtu.be/LMCGAAuAVFA",
     "showcase": "https://youtu.be/5qFxyDkAMPs",
     "percentToQualify": 55,
-    "records": []
+    "records": [
+        {
+            "user": "Fh1r",
+            "link": "https://youtu.be/l_BWjzwjRw8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
