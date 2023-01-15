@@ -4,12 +4,18 @@
     "author": "SarcasticMuch",
     "creators": [
     ],
-    "verifier": "Dandy Chiggins",
-    "verification": "https://youtu.be/xxVMqmhe6tg",
+    "verifier": "KylashTheKiller",
+    "verification": "https://youtu.be/1O-mPiB4d-A",
     "showcase": "https://youtu.be/ObIJBphSSdY",
     "percentToQualify": 65,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://youtu.be/xxVMqmhe6tg",
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "vKaii",
             "link": "https://youtu.be/Duyzy6kVUCQ",
