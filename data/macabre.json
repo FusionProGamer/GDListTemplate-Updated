@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=WN9WL90hOmc",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Riptide",
+            "link": "https://youtu.be/R03dcYI6q7I",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
