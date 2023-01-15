@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/FWDot7LBdlA",
     "showcase": "https://www.youtube.com/watch?v=L0aGR2wxhBE",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+        "user": "WellNot",
+        "link": "https://youtu.be/d5qZ-25xpZk"
+        "percent": 100,
+        "hz": 360
+        }
+    ]
 }
