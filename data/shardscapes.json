@@ -3,10 +3,16 @@
     "name": "Shitty Shardscapes",
     "author": "Luke",
     "creators": [],
-    "verifier": "ElBrocasYT",
-    "verification": "https://www.youtube.com/watch?v=IYeTcyT-0s4",
+    "verifier": "KylashTheKiller",
+    "verification": "https://youtu.be/T2E3llNdrtM",
     "showcase": "https://youtu.be/G7VGrfpivrI",
     "percentToQualify": 61,
     "records": [
+        {
+         "user": "ElBrocasYT",
+         "link": "https://www.youtube.com/watch?v=IYeTcyT-0s4",
+         "percent": 100,
+         "hz": "60"
+        }
     ]
 }
