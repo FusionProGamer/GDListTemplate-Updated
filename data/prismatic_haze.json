@@ -411,6 +411,12 @@
             "link": "https://www.youtube.com/watch?v=74WB5VEUyBs",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Boshy",
+            "link": "https://www.youtube.com/watch?v=NI3m2K6AagA",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
