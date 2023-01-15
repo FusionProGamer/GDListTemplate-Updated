@@ -621,6 +621,12 @@
             "link": "https://www.youtube.com/watch?v=oUOTD_Z4xdo",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Bióxido",
+            "link": "https://www.youtube.com/watch?v=G7txm4jjpK8",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
