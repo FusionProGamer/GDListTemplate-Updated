@@ -332,6 +332,12 @@
             "link": "https://m.youtube.com/watch?v=n-7REkYHk_c&feature=youtu.be",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Sloppy Joe Gaming",
+            "link": "https://www.youtube.com/watch?v=n7MW0oT3WNA",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
