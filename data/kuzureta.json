@@ -1345,6 +1345,12 @@
             "link": "https://www.youtube.com/watch?v=XvIsO_15qXo",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "kingofkittens",
+            "link": "https://youtu.be/F0zhC-VKY40",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
