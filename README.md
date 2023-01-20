@@ -70,7 +70,6 @@ Can i submit Multiple levels on 1 video?
 ## Owners:
 
 - Bluestone
-- JustCrust
 - Microwaveee
 - Davine_007
 
