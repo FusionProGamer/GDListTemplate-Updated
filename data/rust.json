@@ -478,6 +478,13 @@
             "link": "https://www.youtube.com/watch?v=zahHDGFWvfs",
             "percent": 63,
             "hz": 288
+        },
+        {
+            "user": "littlmask",
+            "link": "https://youtu.be/CedIqSggtPc",
+            "percent": 71,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
