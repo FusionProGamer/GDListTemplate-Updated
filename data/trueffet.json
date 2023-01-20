@@ -581,12 +581,6 @@
             "hz": 360
         },
         {
-            "user": "UnaiMJ",
-            "link": "https://www.twitch.tv/unaimj/clip/SuaveZealousBeeAMPEnergyCherry-qWdcwnfwlC9zYxWm",
-            "percent": 65,
-            "hz": 360
-        },
-        {
             "user": "SPKLoli",
             "link": "https://www.youtube.com/watch?v=g1plJ5p8w_E",
             "percent": 100,
@@ -619,6 +613,12 @@
         {
             "user": "Sloppy Joe Gaming",
             "link": "https://www.youtube.com/watch?v=yaCL328opFs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "UnaiMJ",
+            "link": "https://youtu.be/kHC3ezy7Mfk",
             "percent": 100,
             "hz": 360
         }
