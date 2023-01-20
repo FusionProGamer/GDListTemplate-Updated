@@ -290,6 +290,12 @@
             "link": "https://www.youtube.com/watch?v=X3zbmUaE_yA",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "normus",
+            "link": "https://youtu.be/hTOARGEW_70",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
