@@ -694,6 +694,12 @@
             "link": "https://www.youtube.com/watch?v=WNabGuUtBIU",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "skyz",
+            "link": "https://www.youtube.com/watch?v=ay3idzTjqJg",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
