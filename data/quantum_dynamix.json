@@ -8,5 +8,11 @@
     "showcase": "https://youtu.be/QwrM8S3s9XE",
     "percentToQualify": 100,
     "records": [
+                {
+            "user": "ZerniasX",
+            "link": "https://www.youtube.com/watch?v=dm4WjnKKa08",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
