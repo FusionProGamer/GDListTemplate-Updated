@@ -3,6 +3,7 @@
     "loochiverse",
     "henken",
     "verdant_landscape",
+    "africa_circles",
     "frozen_cave",
     "the_hallucination",
     "aerial_gleam",
@@ -27,6 +28,7 @@
     "aquatic_auroras",
     "kenos",
     "visible_ray",
+    "unknown",
     "trueffet",
     "rust",
     "belloq",
@@ -41,7 +43,6 @@
     "azure_flare",
     "the_reaper",
     "jesse_pinkman",
-    "unknown",
     "arcturus",
     "p00p",
     "wasureta",
@@ -156,6 +157,5 @@
     "disruption",
     "crimson_planet",
     "terminux",
-    "legacy",
-    "tempered_steel"
+    "legacy"
 ]
