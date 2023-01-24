@@ -259,6 +259,12 @@
             "link": "https://www.youtube.com/watch?v=IvfTcXlbZus",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "FloridaKid",
+            "link": "https://youtu.be/RSemt3tVsdU",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
