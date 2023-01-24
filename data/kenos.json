@@ -261,12 +261,6 @@
             "hz": 120
         },
         {
-            "user": "woi",
-            "link": "https://youtu.be/ujey9FjyMug",
-            "percent": 71,
-            "hz": 360
-        },
-        {
             "user": "lucap123",
             "link": "https://www.youtube.com/watch?v=Ro-XF3JjVEc",
             "percent": 100,
@@ -359,6 +353,12 @@
         {
             "user": "zepynr",
             "link": "https://www.youtube.com/watch?v=s9w_ZnumABE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "woi",
+            "link": "https://www.youtube.com/watch?v=cMNLBLfbyS8",
             "percent": 100,
             "hz": 360
         }
