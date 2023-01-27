@@ -10,5 +10,12 @@
     "verification": "https://youtu.be/Lx4Stxh9nG8",
     "showcase": " https://youtu.be/Jy_WUNGeOUo",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "T333",
+            "link": "https://www.youtube.com/watch?v=3jrPpkMRK_8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
