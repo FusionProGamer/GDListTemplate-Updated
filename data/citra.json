@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/TRJRKuFxA28",
     "showcase": "https://youtu.be/HzGRLWFmQf4",
     "percentToQualify": 64,
-    "records": []
+    "records": [
+        {
+            "user": "normus",
+            "link": "https://youtu.be/_YuzaYrJGSc",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
