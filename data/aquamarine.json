@@ -164,6 +164,12 @@
             "link": "https://www.youtube.com/watch?v=INBvZxeoclg",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "aza74",
+            "link": "https://youtu.be/PzAHSgSSTsk",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
