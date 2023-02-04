@@ -351,6 +351,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Vice Gameplays",
+            "link": "https://youtu.be/ytly467cz7Q",
+            "percent": 64,
+            "hz": 60
         }
     ]
 }
