@@ -61,7 +61,12 @@
             "link": "https://youtu.be/tls1Mg-i6ec",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "attrixia",
+            "link": "https://www.youtube.com/watch?v=ZDNiG-fIg3I",
+            "percent": 100,
+            "hz": 360
         }    
-            
     ]
 }
