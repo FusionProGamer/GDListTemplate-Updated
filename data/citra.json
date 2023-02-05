@@ -55,8 +55,13 @@
             "link": "https://youtu.be/OsEQusng82A",
             "percent": 100,
             "hz": 360
-        }
-            
+        },
+        {
+            "user": "Lawnmower",
+            "link": "https://youtu.be/tls1Mg-i6ec",
+            "percent": 100,
+            "hz": 240
+        }    
             
     ]
 }
