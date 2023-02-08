@@ -949,6 +949,12 @@
             "link": "https://www.youtube.com/watch?v=DuY4w3B-ESY",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "ivyxzy",
+            "link": "https://youtu.be/PWJ0piPkVBs",
+            "percent": 70,
+            "hz": 240
         }
     ]
 }
