@@ -1325,6 +1325,14 @@
             "link": "https://youtu.be/bwotgcPjmlQ",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "ChedarGD",
+            "link": "https://youtu.be/KXCjt1CHQnE",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
+            
     ] 
 }
