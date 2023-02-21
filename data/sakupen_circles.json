@@ -973,6 +973,12 @@
             "link": "https://www.youtube.com/watch?v=E63neLTbWyY",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "wMystix",
+            "link": "https://youtu.be/yEYjmaXnGx0",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
