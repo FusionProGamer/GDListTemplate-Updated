@@ -290,6 +290,12 @@
             "link": "https://www.youtube.com/watch?v=aXb4WFJVLeU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Haze",
+            "link": "https://youtu.be/T_DxHLcH4OY",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
