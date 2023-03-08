@@ -115,6 +115,13 @@
             "link": "https://www.youtube.com/watch?v=IIEgKKHPKIw",
             "percent": 74,
             "hz": 144
+        },
+        {
+            "user": "LzKlauss",
+            "link": "https://www.youtube.com/watch?v=eCGmIpWrCtU",
+            "percent": 100,
+            "hz": 360
         }
+            
     ]
 }
