@@ -1009,6 +1009,12 @@
             "link": "https://www.youtube.com/watch?v=6kK7tLGf7Qo&ab_channel=yanyo",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "KarmaL",
+            "link": "https://youtu.be/ejj66NQfOs8?t",
+            "percent": 67,
+            "hz": 360
         }
 
     ]
