@@ -109,6 +109,12 @@
             "link": "https://www.youtube.com/watch?v=NydvTXoopR4&t=29s",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "lucap123",
+            "link": "https://www.youtube.com/watch?v=IIEgKKHPKIw",
+            "percent": 74,
+            "hz": 144
         }
     ]
 }
