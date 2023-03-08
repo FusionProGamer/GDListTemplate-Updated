@@ -196,6 +196,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Phantom",
+            "link": "https://youtu.be/6dDSnSrg6hY",
+            "percent": 63,
+            "hz": 360
         }
     ]
 }
