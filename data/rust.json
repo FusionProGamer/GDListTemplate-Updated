@@ -515,6 +515,12 @@
             "link": "https://www.youtube.com/watch?v=VaQGoEIvcxc",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "AlPhaMe",
+            "link": "https://youtu.be/X8DDbxRo5Ok",
+            "percent": 78,
+            "hz": 60
         }
             
     ]
