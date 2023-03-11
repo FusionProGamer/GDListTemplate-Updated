@@ -1260,6 +1260,13 @@
             "link": "https://www.youtube.com/watch?v=jGT5pVu75t0",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "iyron",
+            "link": "https://youtu.be/WQ5Otp7U2rc",
+            "percent": 66,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
