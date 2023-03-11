@@ -171,7 +171,8 @@
             "user": "SarcasticMuch",
             "link": "https://youtu.be/HSlKRraZ7GY",
             "percent": 100,
-            "hz": 240
+            "hz": 120,
+            "mobile": true
         },
         {
             "user": "WhaleyT",
