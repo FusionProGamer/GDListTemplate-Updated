@@ -1015,7 +1015,14 @@
             "link": "https://www.youtube.com/watch?v=hXILy_xiTeQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Zipovina", 
+            "link": "https://youtu.be/qf8UQhIWQSo",
+            "percent": 100,
+            "hz": 360
         }
+    
 
     ]
 }
