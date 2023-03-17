@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=UP4ZkWldt28",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Kenos Song",
+            "link": "https://youtu.be/LRP4U4eA9kg",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
