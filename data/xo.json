@@ -730,6 +730,12 @@
             "link": "https://www.youtube.com/watch?v=p1IMQaJ85Zk",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "The_DominX",
+            "link": "https://m.youtube.com/watch?v=JxFBZmGlbh8&t=12s",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
