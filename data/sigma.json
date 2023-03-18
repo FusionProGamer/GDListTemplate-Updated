@@ -302,6 +302,12 @@
             "link": "https://www.youtube.com/watch?v=OvEkcDsF804",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Lawnmower",
+            "link": "https://youtu.be/7EhuREgvc0E",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
