@@ -921,12 +921,6 @@
             "hz": 360
         },
         {
-            "user": "BanAffect",
-            "link": "https://www.youtube.com/watch?v=JUTEM-V-RyM",
-            "percent": 57,
-            "hz": 360
-        },
-        {
             "user": "aza74",
             "link": "https://youtu.be/9L1ZLNvnbnY",
             "percent": 100,
@@ -1020,6 +1014,12 @@
             "user": "Zipovina", 
             "link": "https://youtu.be/qf8UQhIWQSo",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Disswave",
+            "link": "https://youtu.be/nrFc4gU5Ln4",
+            "percent": 70,
             "hz": 360
         }
     
