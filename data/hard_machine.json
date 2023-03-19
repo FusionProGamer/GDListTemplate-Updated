@@ -65,6 +65,12 @@
             "link": "https://m.youtube.com/watch?v=HQXH61M0nAA&feature=youtu.be",
             "percent": 100,
             "hz": 360
-        }
+        },
+        {
+            "user": "zrK",
+            "link": "https://www.youtube.com/watch?v=NnmJkKreYtc",
+            "percent": 100,
+            "hz": 280
+        }    
     ]
 }
