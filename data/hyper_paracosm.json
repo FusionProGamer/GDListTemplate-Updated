@@ -9,5 +9,12 @@
     "showcase": "https://www.youtube.com/watch?v=0SCNJEIzQnc",
     "percentToQualify": 56,
     "password": "Free to Copy",
-    "records": []
+    "records": [
+    {
+            "user": "Neltumn",
+            "link": "https://www.youtube.com/watch?v=-G8uOkDs4Zk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
