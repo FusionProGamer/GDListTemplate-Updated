@@ -6,5 +6,12 @@
     "verifier": "Dxst",
     "verification": "https://youtu.be/rjRFc-8CLgY",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "ObvSilver",
+            "link": "https://youtu.be/RG1PnnLD_C8",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
 }
