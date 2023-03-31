@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=c-OlPFxUgus",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "this level is free",
+            "link": "https://youtu.be/dWuuRMd_Gr4",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
