@@ -109,6 +109,12 @@
             "link": "https://www.youtube.com/watch?v=LYM2FsIymrc",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "zepynr",
+            "link": "https://www.youtube.com/watch?v=sjdESbD7UN4",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
