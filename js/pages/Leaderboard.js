@@ -1,7 +1,7 @@
-import { fetchLeaderboard } from '../content.js';
-import { localize } from '../util.js';
+import { fetchLeaderboard } from "../content.js";
+import { localize } from "../util.js";
 
-import Spinner from '../components/Spinner.js';
+import Spinner from "../components/Spinner.js";
 
 export default {
     components: {
@@ -14,7 +14,7 @@ export default {
         err: [],
     }),
     template: `
-        <main v-if="loading">
+        <main v-if="loading" class="surface">
             <Spinner></Spinner>
         </main>
         <main v-else class="page-leaderboard-container">
@@ -24,7 +24,7 @@ export default {
                         Leaderboard may be incorrect, as the following levels could not be loaded: {{ err.join(', ') }}
                     </p>
                 </div>
-                <div class="board-container">
+                <div class="board-container surface">
                     <table class="board">
                         <tr v-for="(ientry, i) in leaderboard">
                             <td class="rank">
@@ -41,7 +41,7 @@ export default {
                         </tr>
                     </table>
                 </div>
-                <div class="player-container">
+                <div class="player-container surface">
                     <div class="player">
                         <h1>#{{ selected + 1 }} {{ entry.user }}</h1>
                         <h3>{{ entry.total }}</h3>

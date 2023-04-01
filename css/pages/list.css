@@ -21,11 +21,10 @@
     width: 100%;
 }
 .page-list .list .level button {
-    background-color: var(--color-background);
-    color: var(--color-on-background);
+    background-color: transparent;
     border: none;
     border-radius: 0.5rem;
-    padding: 1rem;
+    padding: 1rem 0;
     text-align: start;
     word-break: normal;
     overflow-wrap: anywhere;
@@ -37,12 +36,12 @@
     text-decoration: line-through;
 }
 .page-list .list .level button:hover {
-    background-color: var(--color-background-hover);
-    color: var(--color-on-background-hover);
+    background-color: #eee;
+    color: black !important;
+    cursor: pointer;
 }
 .page-list .list .level.active button {
-    background-color: var(--color-primary);
-    color: var(--color-on-primary);
+    color: orange;
 }
 .page-list .level-container .level {
     display: flex;

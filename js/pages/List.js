@@ -17,11 +17,11 @@ const roleIconMap = {
 export default {
     components: { Spinner, LevelAuthors },
     template: `
-        <main v-if="loading">
+        <main v-if="loading" class="surface">
             <Spinner></Spinner>
         </main>
         <main v-else class="page-list">
-            <div class="list-container">
+            <div class="list-container surface">
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
@@ -36,7 +36,7 @@ export default {
                     </tr>
                 </table>
             </div>
-            <div class="level-container">
+            <div class="level-container surface">
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
@@ -88,7 +88,7 @@ export default {
                     <p>(ノಠ益ಠ)ノ彡┻━┻</p>
                 </div>
             </div>
-            <div class="meta-container">
+            <div class="meta-container surface">
                 <div class="meta">
                     <div class="errors" v-show="errors.length > 0">
                         <p class="error" v-for="error of errors">{{ error }}</p>
@@ -100,7 +100,7 @@ export default {
                         <h3>List Editors</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
-                                <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
+                                <img :src="\`/assets/\${roleIconMap[editor.role]}-dark.svg\`" :alt="editor.role">
                                 <a v-if="editor.link" class="type-label-lg link" target="_blank" :href="editor.link">{{ editor.name }}</a>
                                 <p v-else>{{ editor.name }}</p>
                             </li>
