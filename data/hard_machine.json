@@ -71,6 +71,12 @@
             "link": "https://www.youtube.com/watch?v=NnmJkKreYtc",
             "percent": 100,
             "hz": 280
-        }    
+        },
+        {
+            "user": "bull2k",
+            "link": "https://youtu.be/kI_vVnwIET0",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
