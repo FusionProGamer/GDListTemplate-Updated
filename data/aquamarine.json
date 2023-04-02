@@ -182,6 +182,12 @@
             "link": "https://www.youtube.com/watch?v=DiS6QPmM9ho",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "sydno",
+            "link": "https://youtu.be/eAMc2ROaE44",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
