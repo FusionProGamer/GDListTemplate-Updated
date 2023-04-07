@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=cP5IFdFyDHk",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://youtu.be/a64Z6mSHuEI",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
