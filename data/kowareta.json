@@ -1286,6 +1286,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "rywun",
+            "link": "https://www.youtube.com/watch?v=cBu3Tqrxmi0",
+            "percent": 100,
+            "hz": 330
         }
     ]
 }
