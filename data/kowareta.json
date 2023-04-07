@@ -1298,6 +1298,14 @@
             "link": "https://youtu.be/8NnfqfL2VQQ",
             "percent": 62,
             "hz": 144
+        },
+        {
+            "user": "Speedboy",
+            "link": "https://youtu.be/o-I3fLGffY8",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
+
     ]
 }
