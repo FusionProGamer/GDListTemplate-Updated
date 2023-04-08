@@ -296,6 +296,12 @@
             "link": "https://youtu.be/T_DxHLcH4OY",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "DashTH",
+            "link": "https://www.youtube.com/watch?v=gh3yB1pQNcQ",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
