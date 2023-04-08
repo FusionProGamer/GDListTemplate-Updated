@@ -15,5 +15,12 @@
     "verification": "https://youtu.be/r39nsL_fsiw",
     "showcase": "https://www.youtube.com/watch?v=tpFyfqXYQqY",
     "percentToQualify": 57,
-    "records": []
+    "records": [
+        {
+            "user": "mist3red",
+            "link": "https://youtu.be/KkfWWJkuTpU",
+            "percent": 100,
+            "hz": 150
+        }
+    ]
 }
