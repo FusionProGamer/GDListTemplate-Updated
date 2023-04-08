@@ -145,6 +145,12 @@
             "link": "https://www.youtube.com/watch?v=zVFxAdmltoQ",
             "percent": 100,
             "hz": 290
+        },
+        {
+            "user": "vorventa",
+            "link": "https://youtu.be/DlvAt2IRmAQ",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
