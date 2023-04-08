@@ -99,6 +99,12 @@
             "link": "https://youtu.be/W9Q_UUclWRg",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "plainz",
+            "link": "https://www.youtube.com/watch?v=bvtRIHUCNxE",
+            "percent": 70,
+            "hz": 144
         }
     ]
 }
