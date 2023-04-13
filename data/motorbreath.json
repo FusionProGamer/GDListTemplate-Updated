@@ -25,6 +25,12 @@
             "link": "https://youtu.be/xO-idjlQYmQ",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "spacebar_key",
+            "link": "https://www.youtube.com/watch?v=_bCkGqtZaAY",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
