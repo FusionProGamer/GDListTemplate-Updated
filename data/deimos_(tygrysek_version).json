@@ -110,6 +110,13 @@
             "link": "https://youtu.be/0obU7ubqI-s",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "DeterminationZ",
+            "link": "https://youtu.be/1Sj0SMQqeH8",
+            "percent": 83,
+            "hz": 90,
+            "mobile": true
         }
     ]
 }
