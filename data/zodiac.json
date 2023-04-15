@@ -236,7 +236,12 @@
             "link": "https://youtu.be/mbg8FRCURUg",
             "percent": 100,
             "hz": 144
-        }
-        
+        },
+        {
+            "user": "TravelChimp",
+            "link": "https://www.youtube.com/watch?v=LkcDpk5aCVU",
+            "percent": 100,
+            "hz": 288
+        }     
     ]
 }
