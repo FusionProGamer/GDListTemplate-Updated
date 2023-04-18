@@ -711,6 +711,13 @@
             "link": "https://www.youtube.com/watch?v=XnJwH-5J9A4",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "VodaBAF",
+            "link": "https://www.youtube.com/watch?v=ukMJ2d4sqWw",
+            "percent": 72,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
