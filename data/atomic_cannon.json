@@ -61,6 +61,12 @@
             "link": "https://youtu.be/SO7uj0kAj2U",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Vink",
+            "link": "https://www.youtube.com/watch?v=hjbq2j-HwpQ",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

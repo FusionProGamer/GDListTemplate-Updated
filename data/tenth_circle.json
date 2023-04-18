@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=J1kIVt1hsGk",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "guec",
+            "link": "https://youtu.be/sXlzxEhKlCA",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

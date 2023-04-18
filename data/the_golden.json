@@ -2076,7 +2076,12 @@
             "link": "https://www.youtube.com/watch?v=9KA70-uqMyM&ab_channel=RedMurder",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "guec",
+            "link": "https://youtu.be/sXlzxEhKlCA",
+            "percent": 100,
+            "hz": 360
         }
-        
     ]
 }    

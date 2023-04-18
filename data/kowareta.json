@@ -1311,7 +1311,12 @@
             "link": "https://youtu.be/EeGF4wgv5Ow",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Dropp",
+            "link": "https://youtu.be/PgSSRBJLDao",
+            "percent": 65,
+            "hz": 360
         }
-
     ]
 }
