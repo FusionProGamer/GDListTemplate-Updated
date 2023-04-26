@@ -189,12 +189,6 @@
             "hz": 300
         },
         {
-            "user": "NTB",
-            "link": "https://www.youtube.com/watch?v=aqEiujHtwYM&ab_channel=NTB",
-            "percent": 73,
-            "hz": 240
-        },
-        {
             "user": "samthemank",
             "link": "https://www.youtube.com/watch?v=y1dWCI7wYLM",
             "percent": 100,
@@ -770,12 +764,6 @@
             "link": "https://youtu.be/hIMJWWngh9A",
             "percent": 100,
             "hz": 300
-        },
-        {
-            "user": "Willow",
-            "link": "https://youtu.be/ueaqidYtpN4",
-            "percent": 66,
-            "hz": 144
         },
         {
             "user": "gotrice",
