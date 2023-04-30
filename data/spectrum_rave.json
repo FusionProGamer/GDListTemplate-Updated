@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/gwHvsCkWGD0",
     "showcase": "",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "ZerniasX",
+            "link": "https://youtu.be/qnoppyiMVPI",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
