@@ -103,7 +103,14 @@
             "link": "https://youtu.be/7vEjoukX2i4",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Emonadeo",
+            "link": "https://www.youtube.com/watch?v=PgF9u7jHH2I",
+            "percent": 100,
+            "hz": 240
         }
+
          
     ]
 }
