@@ -111,7 +111,14 @@
             "link": "https://www.youtube.com/watch?v=W6F_1jneM3c",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "IKuster",
+            "link": "https://youtu.be/8xsDq1GDA1c",
+            "percent": 100,
+            "hz": 360
         }
+        
         
     ]
 }
