@@ -30,6 +30,12 @@
             "link": "https://www.twitch.tv/piesy/v/1794098084?sr=a&t=349s",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Voxility",
+            "link": "https://www.youtube.com/watch?v=sN-bkcmCaUE",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
