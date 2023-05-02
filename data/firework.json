@@ -1375,6 +1375,12 @@
             "link": "https://www.youtube.com/watch?v=f1glU6XnIZU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Takuya",
+            "link": "https://youtu.be/a6kEWtsDmeo",
+            "percent": 100,
+            "hz": 240
         }
             
     ] 
