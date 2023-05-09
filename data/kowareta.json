@@ -1310,6 +1310,14 @@
             "link": "https://youtu.be/S2ggI7-pmlA",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "BoriGD",
+            "link": "https://www.youtube.com/watch?v=Sxj2-JeUDL0",
+            "percent": 76,
+            "hz": 60,
+            "Mobile": true
         }
+            
     ]
 }
