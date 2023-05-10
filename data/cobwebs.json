@@ -477,11 +477,18 @@
             "link": "https://www.youtube.com/watch?v=NlxnKhMLTLQ",
             "percent": 100,
             "hz": 360
-        },{
+        },
+        {
             "user": "KasiaUwU",
             "link": "https://www.youtube.com/watch?v=vqzipQX8iTc",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "DelfunCzyCos",
+            "link": "https://www.youtube.com/watch?v=q2Hot1vXqvY",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
