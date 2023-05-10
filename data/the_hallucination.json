@@ -149,6 +149,14 @@
             "link": "https://youtu.be/RiYGWquvG6k",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "FifloczeqGD",
+            "link": "https://youtu.be/nVTM6PswwcQ",
+            "percent": 70,
+            "hz": 240,
+            "mobile": true
         }
+            
     ]
 }
