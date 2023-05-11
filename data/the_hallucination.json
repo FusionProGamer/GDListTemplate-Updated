@@ -156,6 +156,12 @@
             "percent": 70,
             "hz": 240,
             "mobile": true
+        },
+        {
+            "user": "Zipovina",
+            "link": "https://www.youtube.com/watch?v=cO23zgJQLkI&ab_channel=Zipovina",
+            "percent": 100,
+            "hz": 321
         }
             
     ]
