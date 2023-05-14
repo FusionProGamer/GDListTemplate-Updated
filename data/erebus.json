@@ -47,6 +47,12 @@
             "link": "https://www.youtube.com/watch?v=30mI1b1wdhg",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "EggCorn",
+            "link": "https://www.youtube.com/watch?v=aZe6jxSkycw",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
