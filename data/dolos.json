@@ -260,7 +260,15 @@
             "link": "https://youtu.be/MvbyjnWmcgU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Clickdash",
+            "link": "https://youtu.be/gigP3L7bvb4",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
+            
     
     ]
 }
