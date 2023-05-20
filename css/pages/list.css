@@ -21,10 +21,11 @@
     width: 100%;
 }
 .page-list .list .level button {
-    background-color: transparent;
+    background-color: var(--color-background);
+    color: var(--color-on-background);
     border: none;
     border-radius: 0.5rem;
-    padding: 1rem 0;
+    padding: 1rem;
     text-align: start;
     word-break: normal;
     overflow-wrap: anywhere;
@@ -36,12 +37,13 @@
     text-decoration: line-through;
 }
 .page-list .list .level button:hover {
-    background-color: #eee;
-    color: black !important;
+    background-color: var(--color-background-hover);
+    color: var(--color-on-background-hover);
     cursor: pointer;
 }
 .page-list .list .level.active button {
-    color: orange;
+    background-color: var(--color-primary);
+    color: var(--color-on-primary);
 }
 .page-list .level-container .level {
     display: flex;
@@ -124,4 +126,22 @@
 }
 .page-list .meta .editors li a:hover {
     text-decoration: underline;
+}
+
+/* Shitty */
+
+.shitty .page-list .list .level button {
+    background-color: transparent;
+    padding: 1rem 0;
+}
+
+
+.shitty .page-list .list .level button:hover {
+    background-color: #eee;
+    color: black !important;
+}
+
+.shitty .page-list .list .level.active button {
+    background-color: transparent;
+    color: orange;
 }

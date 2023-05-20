@@ -27,33 +27,56 @@
     <script src="https://unpkg.com/vue-router@4.0.14/dist/vue-router.global.prod.js"></script>
     <script type="module" src="/js/main.js"></script>
 </head>
-
 <body id="app">
-    <header class="surface" :class="{ dark: store.dark }">
-        <div class="logo">
-            <img src="assets/april-logo.png" alt="TSL Logo" />
-        </div>
-        <nav class="nav">
-            <router-link class="nav__tab" to="/">
-                <span class="type-label-lg">List</span>
-            </router-link>
-            <router-link class="nav__tab" to="/leaderboard">
-                <span class="type-label-lg">Leaderboard</span>
-            </router-link>
-            <router-link class="nav__tab" to="/roulette">
-                <span class="type-label-lg">Roulette</span>
-            </router-link>
-            <div class="nav__actions">
-                <a class="nav__icon" href="https://discord.gg/MApKMWZazm">
-                    <img src="https://cdn.discordapp.com/attachments/715267286004531283/1091275438308982825/emoji.png" alt="Discord Logo" />
-                </a>
-                <a class="nav__cta type-label-lg"
-                    href="https://docs.google.com/forms/d/e/1FAIpQLSfnL07lut6MBPuPElD9Pv0AQ6RTlkhKsqWYMKnBMSpIcmQRkA/viewform"
-                    target="_blank">Submit Record</a>
+    <div class="root" :class="{ dark: store.dark, shitty: store.shitty }">
+        <header class="surface">
+            <div class="logo">
+                <img v-if="store.shitty" src="assets/april-logo.png" alt="TSL Logo" />
+                <div v-else class="logo">
+                    <h2>TSL</h2>
+                    <p>v1.7.0</p>
+                </div>
             </div>
-        </nav>
-    </header>
-    <router-view :class="{ dark: store.dark }"></router-view>
+            <nav class="nav">
+                <router-link class="nav__tab" to="/">
+                    <span class="type-label-lg">List</span>
+                </router-link>
+                <router-link class="nav__tab" to="/leaderboard">
+                    <span class="type-label-lg">Leaderboard</span>
+                </router-link>
+                <router-link class="nav__tab" to="/roulette">
+                    <span class="type-label-lg">Roulette</span>
+                </router-link>
+                <div class="nav__actions">
+                    <button
+                        class="nav__icon toggle-shitty"
+                        @click.prevent="store.toggleShitty()"
+                    >
+                        <img
+                            src="https://cdn.discordapp.com/attachments/715267286004531283/1091275438308982825/emoji.png"
+                            alt="Shitty Mode"
+                        />
+                    </button>
+                    <button
+                        class="nav__icon"
+                        @click.prevent="store.toggleDark()"
+                    >
+                        <img
+                            :src="store.dark ? '/assets/light.svg' : '/assets/dark.svg'"
+                            alt=""
+                        />
+                    </button>
+                    <a class="nav__icon" href="https://discord.gg/MApKMWZazm">
+                        <img src="/assets/discord.svg" alt="Discord Logo" />
+                    </a>
+                    <a class="nav__cta type-label-lg"
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSfnL07lut6MBPuPElD9Pv0AQ6RTlkhKsqWYMKnBMSpIcmQRkA/viewform"
+                        target="_blank">Submit Record</a>
+                </div>
+            </nav>
+        </header>
+        <router-view></router-view>
+    </div>
 </body>
 
 </html>
