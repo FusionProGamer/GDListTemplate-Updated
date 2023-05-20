@@ -1,22 +1,22 @@
-import { store } from "../main.js";
-import { embed } from "../util.js";
-import { score } from "../score.js";
-import { fetchEditors, fetchList } from "../content.js";
+import { store } from '../main.js';
+import { embed } from '../util.js';
+import { score } from '../score.js';
+import { fetchEditors, fetchList } from '../content.js';
 
-import Spinner from "../components/Spinner.js";
-import LevelAuthors from "../components/List/LevelAuthors.js";
+import Spinner from '../components/Spinner.js';
+import LevelAuthors from '../components/List/LevelAuthors.js';
 
 const roleIconMap = {
-    owner: "crown",
-    admin: "user-gear",
-    helper: "user-shield",
-    dev: "code",
-    trial: "user-lock",
+	owner: 'crown',
+	admin: 'user-gear',
+	helper: 'user-shield',
+	dev: 'code',
+	trial: 'user-lock',
 };
 
 export default {
-    components: { Spinner, LevelAuthors },
-    template: `
+	components: { Spinner, LevelAuthors },
+	template: `
         <main v-if="loading" class="surface">
             <Spinner></Spinner>
         </main>
@@ -100,7 +100,7 @@ export default {
                         <h3>List Editors</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
-                                <img :src="\`/assets/\${roleIconMap[editor.role]}-dark.svg\`" :alt="editor.role">
+                                <img :src="\`/assets/\${roleIconMap[editor.role]}\${(store.dark || store.shitty) ? '-dark' : ''}.svg\`" :alt="editor.role">
                                 <a v-if="editor.link" class="type-label-lg link" target="_blank" :href="editor.link">{{ editor.name }}</a>
                                 <p v-else>{{ editor.name }}</p>
                             </li>
@@ -135,59 +135,57 @@ export default {
             </div>
         </main>
     `,
-    data: () => ({
-        list: [],
-        editors: [],
-        loading: true,
-        selected: 0,
-        errors: [],
-        roleIconMap,
-        store,
-        toggledShowcase: false,
-    }),
-    computed: {
-        level() {
-            return this.list[this.selected][0];
-        },
-        video() {
-            if (!this.level.showcase) {
-                return embed(this.level.verification);
-            }
+	data: () => ({
+		list: [],
+		editors: [],
+		loading: true,
+		selected: 0,
+		errors: [],
+		roleIconMap,
+		store,
+		toggledShowcase: false,
+	}),
+	computed: {
+		level() {
+			return this.list[this.selected][0];
+		},
+		video() {
+			if (!this.level.showcase) {
+				return embed(this.level.verification);
+			}
 
-            return embed(
-                this.toggledShowcase
-                    ? this.level.showcase
-                    : this.level.verification
-            );
-        },
-    },
-    async mounted() {
-        // Hide loading spinner
-        this.list = await fetchList();
-        this.editors = await fetchEditors();
+			return embed(
+				this.toggledShowcase ? this.level.showcase : this.level.verification,
+			);
+		},
+	},
+	async mounted() {
+		// Hide loading spinner
+		this.list = await fetchList();
+		this.editors = await fetchEditors();
 
-        // Error handling
-        if (!this.list) {
-            this.errors = [
-                "Failed to load list. Retry in a few minutes or notify list staff.",
-            ];
-        } else {
-            this.errors.push(
-                ...this.list
-                    .filter(([_, err]) => err)
-                    .map(([_, err]) => {
-                        return `Failed to load level. (${err}.json)`;
-                    })
-            );
-            if (!this.editors) {
-                this.errors.push("Failed to load list editors.");
-            }
-        }
+		// Error handling
+		if (!this.list) {
+			this.errors = [
+				'Failed to load list. Retry in a few minutes or notify list staff.',
+			];
+		} else {
+			this.errors.push(
+				...this.list
+					.filter(([_, err]) => err)
+					.map(([_, err]) => {
+						return `Failed to load level. (${err}.json)`;
+					}),
+			);
+			if (!this.editors) {
+				this.errors.push('Failed to load list editors.');
+			}
+		}
 
-        this.loading = false;
-    },
-    methods: {
-        embed,
-        score,
-    },
+		this.loading = false;
+	},
+	methods: {
+		embed,
+		score,
+	},
 };
