@@ -23,6 +23,7 @@
     "neutra",
     "cold_sweat",
     "marathon",
+    "solar_flare",
     "spectrum_cyclone",
     "silent_clubstep",
     "lotus_flower",
@@ -156,7 +157,5 @@
     "electro_paracosm",
     "stygian_machinery",
     "requiem",
-    "digital_descent",
-    "darkened",
-    "kuzureta"
+    "digital_descent"
 ]
