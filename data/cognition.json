@@ -36,6 +36,12 @@
             "link": "https://www.youtube.com/watch?v=sN-bkcmCaUE",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "exsii",
+            "link": "https://youtu.be/tOtZ61oONsI",
+            "percent": 100,
+            "hz": 300
         }
     ]
 }
