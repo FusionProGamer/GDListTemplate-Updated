@@ -3,11 +3,17 @@
     "name": "Shitty RUST",
     "author": "Sulky",
     "creators": [],
-    "verifier": "GD Crimsonking22",
-    "verification": "https://www.youtube.com/watch?v=9WqkdBcxS54",
+    "verifier": "TheRandomStuff",
+    "verification": "https://youtu.be/VCKtUnPOIrk",
     "showcase": "https://youtu.be/B5Fx25XV-fg",
     "percentToQualify": 63,
     "records": [
+        {
+            "user": "GD Crimsonking22",
+            "link": "https://www.youtube.com/watch?v=9WqkdBcxS54",
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "Tai0",
             "link": "https://www.youtube.com/watch?v=xcG87z2KOeE",
