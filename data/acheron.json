@@ -211,14 +211,6 @@
             "link": "https://youtu.be/tHTN9V8txhI",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "Sisiska_gmd",
-            "link": "https://youtu.be/ASmWuzLm-74",
-            "percent": 100,
-            "hz": 120,
-            "mobile": true
-        }
-        
+        }        
     ]
 }
