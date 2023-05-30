@@ -501,7 +501,15 @@
             "link": "https://youtu.be/3cXgkVidjNY",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "VodaBAF",
+            "link": "https://youtube.com/watch?v=qgG9ss9nARo&feature=share7",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
+        
         
     ]
 }
