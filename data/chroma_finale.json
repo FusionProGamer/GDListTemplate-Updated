@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=TWk22HorZ2M",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "shel",
+            "link": "https://youtu.be/HPRY00ARxkw",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
