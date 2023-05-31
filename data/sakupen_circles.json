@@ -1132,6 +1132,13 @@
             "link": "https://youtu.be/JLrvxHB4uz8",
             "percent": 57,
             "hz": 360
+        },
+        {
+            "user": "fronly",
+            "link": "https://youtu.be/ZqHjGse8S4o",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
