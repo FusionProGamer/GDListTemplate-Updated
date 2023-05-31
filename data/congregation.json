@@ -399,6 +399,12 @@
             "link": "https://www.youtube.com/watch?v=HU8gtc1TOWE",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Vegardo",
+            "link": "https://youtu.be/6ySJV1pDmqs",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
