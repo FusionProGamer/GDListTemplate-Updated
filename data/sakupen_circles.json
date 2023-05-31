@@ -1106,6 +1106,13 @@
             "link": "https://www.youtube.com/watch?v=9mieZWtW_RM",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "YNDINI",
+            "link": "https://youtu.be/XYu9OaQCXlE",
+            "percent": 76,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
