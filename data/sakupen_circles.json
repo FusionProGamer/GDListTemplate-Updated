@@ -1120,6 +1120,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "PxlishGD",
+            "link": "https://www.youtube.com/watch?v=bIxCkbGAw14",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
