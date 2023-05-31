@@ -7,5 +7,13 @@
     "verification": "https://youtu.be/rIng6gj3-PM",
     "showcase": "https://youtu.be/qT1v9cxysSw",
     "percentToQualify": 53,
-    "records": []
+    "records": [
+        {
+            "user": "bnuuy",
+            "link": "https://youtu.be/oRhtgz8xMvA",
+            "percent": 100,
+            "hz": 360
+        }
+            
+    ]
 }
