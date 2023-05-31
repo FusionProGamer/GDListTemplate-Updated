@@ -1411,7 +1411,16 @@
             "link": "https://youtu.be/qpptJw7L47o",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "ATaMAn",
+            "link": "https://youtu.be/ssyRsablL24",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
+        
+            
             
     ] 
 }
