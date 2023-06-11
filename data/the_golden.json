@@ -2166,6 +2166,13 @@
             "link": "https://youtu.be/VdUweFApe24",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "ATaMAn",
+            "link": "https://youtu.be/X49zWKssWGI",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }    
