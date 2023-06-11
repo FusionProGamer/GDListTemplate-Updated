@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/ZlfryGiAlsg",
     "showcase": "https://www.youtube.com/watch?v=XJLmsN2wO7Q",
     "percentToQualify": 58,
-    "records": []
+    "records": [
+        {
+            "user": "Voxility",
+            "link": "https://youtu.be/PFbXhlrWz7E",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
