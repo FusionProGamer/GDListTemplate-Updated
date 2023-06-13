@@ -1151,6 +1151,12 @@
             "link": "https://www.youtube.com/watch?v=y7mIgwVwQSo",
             "percent": 67,
             "hz": 360
+        },
+        {
+            "user": "ven",
+            "link": "https://youtu.be/CFZfRJIzL9E",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
