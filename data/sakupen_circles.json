@@ -1163,6 +1163,12 @@
             "link": "https://www.youtube.com/watch?v=PgP0wjpdojk&ab_channel=Josh%E2%99%A1",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Deless",
+            "link": "https://youtu.be/GtYZzGRbCVM",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
