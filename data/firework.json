@@ -1418,9 +1418,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "TimkaTv",
+            "link": "https://www.youtube.com/watch?v=LHNzI5FqKPY",
+            "percent": 100,
+            "hz": 360
         }
-        
-            
-            
     ] 
 }
