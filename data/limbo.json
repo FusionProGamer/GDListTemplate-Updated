@@ -10,6 +10,35 @@
     "showcase": "",
     "percentToQualify": 47,
     "records": [
-
+        {
+            "user": "BarbequeSauce",
+            "link": "https://www.youtube.com/watch?v=2OeTnW68HC4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Skeeb",
+            "link": "https://www.youtube.com/watch?v=M85yBXHlncw",
+            "percent": 100,
+            "hz": 280
+        },
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://www.youtube.com/watch?v=M85yBXHlncw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Diverse",
+            "link": "https://www.youtube.com/watch?v=nugkwdmN7Rw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "BrightBird",
+            "link": "https://www.youtube.com/watch?v=FTnct7hg9HE",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }
