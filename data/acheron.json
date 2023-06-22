@@ -211,6 +211,12 @@
             "link": "https://youtu.be/pFe5VtHkilA",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "kacro",
+            "link": "https://www.youtube.com/watch?v=NIxlVismCnw&t=3s",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
