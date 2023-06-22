@@ -452,6 +452,12 @@
             "link": "https://www.youtube.com/watch?v=Pkg_x07XWFY",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Indy",
+            "link": "https://youtu.be/phcy0cX8AW0",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
