@@ -1181,6 +1181,12 @@
             "link": "https://www.youtube.com/watch?v=h3Mm0fjcGd4&ab_channel=GDFayo",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Quirrel",
+            "link": "https://youtu.be/QtOq40OT3kw",
+            "percent": 100,
+            "hz": 300
         }
     
     ]
