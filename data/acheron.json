@@ -217,6 +217,12 @@
             "link": "https://www.youtube.com/watch?v=NIxlVismCnw&t=3s",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "wafflesniffer49",
+            "link": "https://www.youtube.com/watch?v=9ldkIRZCXDY",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
