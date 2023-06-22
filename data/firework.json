@@ -1424,6 +1424,12 @@
             "link": "https://www.youtube.com/watch?v=LHNzI5FqKPY",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "lopidopi",
+            "link": "https://youtu.be/mZcDuOQJZaM",
+            "percent": 100,
+            "hz": 360
         }
     ] 
 }
