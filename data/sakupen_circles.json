@@ -1163,6 +1163,12 @@
             "link": "https://www.youtube.com/watch?v=rneLWbFIh6Q",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "SpicyDrinkBottle",
+            "link": "https://youtu.be/QcrYia4fBlg",
+            "percent": 66,
+            "hz": 360
         }
     ]
 }
