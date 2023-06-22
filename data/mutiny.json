@@ -79,6 +79,12 @@
             "link": "https://www.youtube.com/watch?v=u-klioxy13s",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "Dylinator",
+            "link": "https://youtu.be/brSLpYkfSwo",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
