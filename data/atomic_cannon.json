@@ -67,6 +67,12 @@
             "link": "https://www.youtube.com/watch?v=hjbq2j-HwpQ",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Compass",
+            "link": "https://youtu.be/1L6HwUmzCAU",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
