@@ -91,6 +91,12 @@
             "link": "https://youtu.be/_-R2RZ3dxPc",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Woi",
+            "link": "https://www.youtube.com/watch?v=rACkbEbA2iM&ab_channel=woi",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
