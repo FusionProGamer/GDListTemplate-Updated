@@ -97,6 +97,12 @@
             "link": "https://www.youtube.com/watch?v=2Icms7wcA0c&t=140s&ab_channel=Lukuza",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Emerald",
+            "link": "https://youtu.be/e6zswctDseY",
+            "percent": 65,
+            "hz": 360
         }
     ]
 }
