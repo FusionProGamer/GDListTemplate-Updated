@@ -183,6 +183,12 @@
             "link": "https://www.youtube.com/watch?v=j8AK5Zd9G7g",
             "percent": 75,
             "hz": 144
+        },
+        {
+            "user": "Gecko",
+            "link": "https://youtu.be/29DexjsRKgw",
+            "percent": 100,
+            "hz": 240
         }
             
     ]
