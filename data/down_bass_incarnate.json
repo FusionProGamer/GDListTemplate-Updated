@@ -8,6 +8,12 @@
     "showcase": "https://www.youtube.com/watch?v=fM82T562HJ4",
     "percentToQualify": 56,
     "records": [
+        {
+            "user": "LzKlauss",
+            "link": "https://youtu.be/Ejqzbb_jQW8",
+            "percent": 100,
+            "hz": 360
+        }
 
     ]
 }
