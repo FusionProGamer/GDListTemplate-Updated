@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=dXcH37WnPMU",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Drako",
+            "link": "https://youtu.be/J3ZNZ6kMbY8",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
