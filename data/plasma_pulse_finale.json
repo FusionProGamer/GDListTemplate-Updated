@@ -583,6 +583,15 @@
             "link": "https://www.youtube.com/watch?v=xMiWgWrxiUU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Фанни",
+            "link": "https://youtu.be/RhRg-Gb2Ggo",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
         }
+            
+            
     ]
 }
