@@ -7,5 +7,13 @@
     "verification": "https://youtu.be/u03Qk-zjEc0",
     "showcase": "https://youtu.be/R2gyBjXFEzw",
     "percentToQualify": 48,
-    "records": []
+    "records": [
+        {
+            "user": "Mariner",
+            "link": "https://youtu.be/3hQ14GpmRpw",
+            "percent": 49,
+            "hz": 288
+        }
+    
+    ]
 }
