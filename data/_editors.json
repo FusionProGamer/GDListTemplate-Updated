@@ -1,17 +1,17 @@
 [
     {
         "role": "owner",
-        "name": "Raezori",
-        "link": "https://www.youtube.com/channel/UC2HOxc11lGMnB28rZbznkzA"
+        "name": "Lorer",
+        "link": ""
     },
     {
         "role": "admin",
-        "name": "Smek",
-        "link": "https://www.youtube.com/channel/UCh8NtHTnWCjD2lgXp37p2uw"
+        "name": "Duofresh",
+        "link": ""
     },
     {
-        "role": "dev",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/c/PrometheusAlt"
+        "role": "admin",
+        "name": "Fusion",
+        "link": ""
     }
 ]
