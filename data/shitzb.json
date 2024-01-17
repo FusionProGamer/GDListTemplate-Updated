@@ -1,0 +1,19 @@
+{
+    "id": 126,
+    "name": "Shitty Zodiac Black",
+    "author": "DuoFresh",
+    "creators": [],
+    "verifier": "DuoFresh",
+    "verification": "g",
+    "showcase": "g",
+    "password": "No Copy",
+    "percentToQualify": 48,
+    "records": [
+         {
+            "user": "Scryptol",
+            "link": "https://www.youtube.com/watch?v=2qjVhi96P_c&ab_channel=Scryptol",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

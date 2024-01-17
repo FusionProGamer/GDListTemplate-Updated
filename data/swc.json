@@ -1,0 +1,25 @@
+{
+    "id": 185,
+    "name": "SonicWave Cityness",
+    "author": "Zenry",
+    "creators": [],
+    "verifier": "Zenry",
+    "verification": "https://youtu.be/xKQXMZ5EXVo",
+    "showcase": "https://youtu.be/xKQXMZ5EXVo",
+    "password": "No Copy",
+    "percentToQualify": 49,
+"records": [
+         {
+            "user": "Scryptol",
+            "link": "https://www.youtube.com/watch?v=Sw4n1vBD7FQ&ab_channel=Scryptol",
+            "percent": 100,
+            "hz": 360
+        },
+  {
+            "user": "Fusion",
+            "link": "https://www.kapwing.com/videos/65560797de395d8f8fbf5352",
+            "percent": 96,
+            "hz": 60
+  }
+    ]
+}
