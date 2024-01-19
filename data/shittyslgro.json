@@ -1,0 +1,25 @@
+{
+    "id": 63,
+    "name": "Shitty Silent Gronos",
+    "author": "DuoFresh",
+    "creators": [],
+    "verifier": "DuoFresh",
+    "verification": "https://youtu.be/JEQE3-lIIh8",
+    "showcase": "https://youtu.be/JEQE3-lIIh8",
+    "password": "No Copy",
+    "percentToQualify": 55,
+    "records": [
+         {
+            "user": "Fusion",
+            "link": "https://sites.google.com/view/lorergdps",
+            "percent": 86,
+            "hz": 120
+        },
+        {
+            "user": "Scryptol",
+            "link": "https://youtu.be/JWHT9z84kWc?feature=shared",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

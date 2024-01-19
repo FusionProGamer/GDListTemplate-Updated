@@ -1,0 +1,19 @@
+{
+    "id": 179,
+    "name": "Inferno",
+    "author": "kow",
+    "creators": [],
+    "verifier": "Scryptol",
+    "verification": "https://www.youtube.com/watch?v=FqO6Y-hsqKY&ab_channel=Scryptol",
+    "showcase": "https://www.youtube.com/watch?v=FqO6Y-hsqKY&ab_channel=Scryptol",
+    "password": "No Copy",
+    "percentToQualify": 52,
+    "records": [
+         {
+            "user": "DuoFresh",
+            "link": "https://youtu.be/aefCm50889Y",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

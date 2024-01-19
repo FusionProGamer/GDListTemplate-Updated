@@ -1,0 +1,19 @@
+{
+    "id": 126,
+    "name": "2part",
+    "author": "fusion",
+    "creators": [],
+    "verifier": "fusion",
+    "verification": "https://www.youtube.com/watch?v=S4t3iI1lL14&ab_channel=Scryptol",
+    "showcase": "https://www.youtube.com/watch?v=S4t3iI1lL14&ab_channel=Scryptol",
+    "password": "No Copy",
+    "percentToQualify": 64,
+    "records": [
+         {
+            "user": "Scryptol",
+            "link": "https://www.youtube.com/watch?v=S4t3iI1lL14&ab_channel=Scryptol",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

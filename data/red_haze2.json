@@ -1,0 +1,19 @@
+{
+    "id": 150,
+    "name": "Red Haze II",
+    "author": "DuoFresh",
+    "creators": [],
+    "verifier": "DuoFresh",
+    "verification": "https://www.youtube.com/watch?v=p5VJ1vyjpuM&ab_channel=Scryptol",
+    "showcase": "https://www.youtube.com/watch?v=p5VJ1vyjpuM&ab_channel=Scryptol",
+    "password": "No Copy",
+    "percentToQualify": 66,
+    "records": [
+         {
+            "user": "Scryptol",
+            "link": "https://www.youtube.com/watch?v=p5VJ1vyjpuM&ab_channel=Scryptol",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
