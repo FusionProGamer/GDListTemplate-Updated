@@ -1,5 +1,5 @@
 import { store } from '../main.js';
-import { embed } from '../util.js';
+import { embed, getFontColour } from '../util.js';
 import { score } from '../score.js';
 import { fetchEditors, fetchList } from '../content.js';
 
@@ -9,9 +9,10 @@ import LevelAuthors from '../components/List/LevelAuthors.js';
 const roleIconMap = {
 	owner: 'crown',
 	admin: 'user-gear',
-	helper: 'user-shield',
-	dev: 'code',
-	trial: 'user-lock',
+	seniormod: 'user-shield',
+	mod: 'user-lock',
+    trial: 'user-check',
+	dev: 'code'
 };
 
 export default {
@@ -40,6 +41,11 @@ export default {
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
+                    <div class="packs" v-if="level.packs.length > 0">
+                        <div v-for="pack in level.packs" class="tag" :style="{background:pack.colour}">
+                            <p :style="{color:getFontColour(pack.colour)}">{{pack.name}}</p>
+                        </div>
+                    </div>
                     <div v-if="level.showcase" class="tabs">
                         <button class="tab type-label-lg" :class="{selected: !toggledShowcase}" @click="toggledShowcase = false">
                             <span class="type-label-lg">Verification</span>
@@ -76,7 +82,7 @@ export default {
                                 <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
                             </td>
                             <td class="mobile">
-                                <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
+                                <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store?.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="hz">
                                 <p>{{ record.hz }}Hz</p>
@@ -93,6 +99,7 @@ export default {
                     <div class="errors" v-show="errors.length > 0">
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
+                    <p class="promote">If you're interested in more accessible shitty levels, check out <a style="text-decoration:underline" href="https://tsp.pages.dev" target="_blank">The Shitty Progression</a>.</p>
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
@@ -103,31 +110,20 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
-                    <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
-                    </p>
-                    <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
-                    </p>
-                    <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
-                    </p>
-                    <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
-                    </p>
-                    <p>
-                        The recording must also show the player hit the endwall, and display end stats, or the completion will be invalidated.
-                    </p>
-                    <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
-                    </p>
+                    <h3> Submission Requirements </h3>
+                    <p> When submitting a record, please ensure that you have the following:</p>
+                    <p> - A complete playthrough of the level from 0-100 with no cuts (if you make cuts in your submitted video, include raw footage that doesn't have them) </p>
+                    <p> - A decent amount of previous attempts (A single death at 1% is not sufficient, try to get somewhat far into the level. Everplay records are exempt from this.) </p>
+                    <p> - End stats (The whole box must appear for at least one frame) </p>
+                    <p> - Cheat Indicator (If you are using a mod menu that supports one, like Megahack v7) </p>
+                    <p> - Fps/tps indicator (For mod menus that support one) </p>
+                    <p> - In-game source audio/Clicks (Either is fine, however both are strongly recommended. If you don't have either in your submission video, attach raw footage that does) </p>
+                    <p> Refer to <a href="https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit#gid=0" style="text-decoration: underline;">this sheet</a> for a complete list of allowed mods.</p>
+                    <p> Please also check for the following:</p>
+                    <p> - Make sure you beat the level displayed on the site (for reference, check the level ID to ensure you're playing the correct level</p>
+                    <p> - Do not use secret routes or bug routes</p>
+                    <p> - Do not use easy modes, only a record of the unmodified level qualifies</p>
+                    <p> - Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level</p>
                 </div>
             </div>
         </main>
@@ -184,5 +180,6 @@ export default {
 	methods: {
 		embed,
 		score,
+        getFontColour
 	},
 };
