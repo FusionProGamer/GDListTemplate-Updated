@@ -1,0 +1,19 @@
+{
+    "id": 127,
+    "name": "Red Haze",
+    "author": "DuoFresh",
+    "creators": [],
+    "verifier": "DuoFresh",
+    "verification": "nirn",
+    "showcase": "aniti",
+    "password": "No Copy",
+    "percentToQualify": 56,
+"records": [
+        {
+            "user": "Scryptol",
+            "link": "https://www.youtube.com/watch?v=I8FviKXBdNg&ab_channel=Scryptol",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

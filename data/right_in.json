@@ -1,0 +1,25 @@
+{
+    "id": 126,
+    "name": "Right In",
+    "author": "iHsM",
+    "creators": [],
+    "verifier": "iHsM",
+    "verification": "https://www.youtube.com/watch?v=-Pwokal12ZQ&ab_channel=Scryptol",
+    "showcase": "https://www.youtube.com/watch?v=-Pwokal12ZQ&ab_channel=Scryptol",
+    "password": "No Copy",
+    "percentToQualify": 99,
+"records": [
+         {
+            "user": "DuoFresh",
+            "link": "https://youtu.be/iswWJslC2DY",
+            "percent": 100,
+            "hz": 360
+        },
+  {
+            "user": "Scryptol",
+            "link": "https://www.youtube.com/watch?v=-Pwokal12ZQ&ab_channel=Scryptol",
+            "percent": 100,
+            "hz": 360
+  }
+    ]
+}

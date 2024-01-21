@@ -1,0 +1,37 @@
+{
+    "id": 126,
+    "name": "Infiltration",
+    "author": "lorer",
+    "creators": [],
+    "verifier": "lorer",
+    "verification": "https://www.youtube.com/watch?v=vtSnQw8YJV4&ab_channel=Scryptol",
+    "showcase": "https://www.youtube.com/watch?v=vtSnQw8YJV4&ab_channel=Scryptol",
+    "password": "No Copy",
+    "percentToQualify": 90,
+"records": [
+         {
+            "user": "DuoFresh",
+            "link": ".",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Scryptol",
+            "link": "https://www.youtube.com/watch?v=vtSnQw8YJV4&ab_channel=Scryptol",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kow",
+            "link": "https://youtu.be/JWHT9z84kWc?feature=shared",
+            "percent": 100,
+            "hz": 360
+        },
+           {
+            "user": "black screen",
+            "link": "https://www.youtube.com/watch?v=p-Qos2t07BA",
+            "percent": 100,
+            "hz": 240
+           }
+    ]
+}

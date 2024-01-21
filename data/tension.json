@@ -1,0 +1,25 @@
+{
+    "id": 126,
+    "name": "tension",
+    "author": "lorer",
+    "creators": [],
+    "verifier": "lorer",
+    "verification": "m",
+    "showcase": "n",
+    "password": "No Copy",
+    "percentToQualify": 67,
+"records": [
+         {
+            "user": "DuoFresh",
+            "link": ".",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Scryptol",
+            "link": "https://www.youtube.com/watch?v=VPjrbp3vx7c&ab_channel=Scryptol",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
