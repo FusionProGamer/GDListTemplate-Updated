@@ -1,1 +1,6 @@
-Beta Text Wowowo
+,
+{
+        "name": "High Detail Pack",
+        "levels": ["6am", "2part", "your_last_grasp"],
+        "colour": "#a3a31f"
+    }
