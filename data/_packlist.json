@@ -1,7 +1,12 @@
 [
 {
-        "name": "Former Top 1 Pack",
-        "levels": ["2part", "6am", "fire"],
-        "colour": "#ffd700"
+        "name": "Nine Circles Pack",
+        "levels": ["cs", "swc", "forward_circles"],
+        "colour": "#ff9100"
+    },
+{
+        "name": "Super Easy Pack",
+        "levels": ["infiltration", "tension"],
+        "colour": "#0026ff"
     }
 ]
