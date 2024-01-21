@@ -99,7 +99,7 @@ export default {
                     <div class="errors" v-show="errors.length > 0">
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
-                    <p class="promote">If you're interested in more accessible shitty levels, check out <a style="text-decoration:underline" href="https://tsp.pages.dev" target="_blank">The Shitty Progression</a>.</p>
+                    <p class="promote">Check out our <a style="text-decoration:underline" href="https://www.lorer.in" target="_blank">Main Page</a>.</p>
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
