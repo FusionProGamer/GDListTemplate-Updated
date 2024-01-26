@@ -9,5 +9,12 @@
     "password": "Not Copyable",
     "percentToQualify": 53,
     "records": [
+         {
+            "user": "fusion",
+            "link": "check-discord",
+            "percent": 96,
+            "hz": 240,
+            "mobile": true
+        }
     ]
 }
