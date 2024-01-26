@@ -3,6 +3,11 @@
         "name": "Nine Circles Pack",
         "levels": ["cs", "swc", "forward_circles"],
         "colour": "#ff9100"
+    },  
+{
+        "name": "Red Haze Saga",
+        "levels": ["red_haze", "red_haze2"],
+        "colour": "#eb4034"
     },
 {
         "name": "Super Easy Pack",
