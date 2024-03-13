@@ -1,8 +1,4 @@
-# Welcome to the maintained Geometry Dash LorerGDLS List repo!
 
-# FAQ
-
----
 
 ### Website FAQ
 
